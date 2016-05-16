@@ -1,7 +1,7 @@
 # 3-P Tool
 ## Overview(3-P Tool)
 
-<p>3-P(parallel point-cloud processing) tool is a parallel processing tool that helps users to process large-scale point-clouds in parallel computing environment.3-P implements two interpolation algorithms, i.e., IDW and Kriging using MPI. It also has a configurable input parameters which can run both on GUI mode(it was built using Java swing libraries) and command-mode. Our processing tool provides a layer of abstraction for users to hide low level operations in parallel processing.</p>
+<p>3-P(parallel point-cloud processing) tool is a parallel processing tool that helps users to process large-scale point-clouds in parallel computing environment.3-P implements two interpolation algorithms, i.e., IDW and Kriging using MPI. It also has a configurable input parameters which can run both on GUI mode(it was built using JAVA swing libraries) and command-mode. Our processing tool provides a layer of abstraction for users to hide low level operations in parallel processing.</p>
 
 ## Usage
 
